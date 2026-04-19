@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LAB_02_03</string>
+    <string name="name_hint">Podaj imię</string>
+    <string name="read_name">ODCZYTAJ IMIĘ</string>
+    <string name="counter">Licznik wciśnięć przycisku: 0</string>
+    <string name="add_1">Dodaj 1</string>
+    <string name="number1_hint">Pierwsza liczba</string>
+    <string name="number2_hint">Druga liczba</string>
+    <string name="multiply">MNOŻENIE</string>
+    <string name="result">Wynik</string>
+    <string name="android">Jak widzę zaliczenie z Androida:</string>
+    <string name="answer1">1 kolokwium</string>
+    <string name="answer2">2 kolokwia</string>
+    <string name="answer3">Przepis z laborki!</string>
+</resources>
